@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class LabActivity1EmployeeInformationSystem {
     public static void main(String[] args) {
 
         /*dito kaya System.In yung nakalagay para malaman na ang susundin ng code is yung iiinput ng users.
